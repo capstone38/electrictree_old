@@ -1,4 +1,5 @@
 #include <iostream>
+#include <rs_context.hpp>
 
 using namespace std;
 
